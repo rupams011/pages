@@ -1,0 +1,11 @@
+pages:
+  stage: deploy
+  script:
+  - npm run build
+  - cp -r * .public
+  - mv dist public
+  artifacts:
+    paths:
+    - public
+  only:
+  - main
