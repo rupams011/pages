@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/pages/_next/static/chunks/ff1a16fafef87110.js","/pages/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"buildId":"iqd7Su69AG3e-W7z4uI_7","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-4xl mx-auto px-4 py-12 md:py-16 text-zinc-900 dark:text-zinc-100","children":[["$","h1",null,{"className":"text-3xl md:text-4xl font-bold mb-8","children":"Contact Us"}],["$","div",null,{"className":"space-y-6 text-zinc-700 dark:text-zinc-300 leading-relaxed","children":[["$","p",null,{"children":"We'd love to hear from you! Whether you have a question about features, feedback on your experience, or just want to say hello."}],["$","p",null,{"className":"text-xl md:text-2xl font-bold text-accent","children":["$","a",null,{"href":"mailto:hello@huesurge.com","className":"hover:underline","children":"hello@huesurge.com"}]}],["$","p",null,{"children":" Thank you for using HueSurge!"}]]}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+4:null
